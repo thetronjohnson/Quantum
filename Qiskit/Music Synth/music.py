@@ -61,5 +61,5 @@ qc.h(qr[2])
 for i in range(7):
 	qc.measure(qr[i],cr[i])
 
-quantumnotes(qc,4)
-quantumchords(qc,4)
+quantumnotes(qc,10)
+quantumchords(qc,10)
